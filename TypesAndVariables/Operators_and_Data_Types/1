@@ -1,0 +1,9 @@
+
+    + - Addition
+    * - Multiplication
+    ** - Exponentiation
+    / - Division
+    // - Floor division
+    % - Modulus
+    > - Greater than
+    <= - Less than or equal to
