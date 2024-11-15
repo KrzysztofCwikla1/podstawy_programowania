@@ -10,3 +10,8 @@ fullname = len(name+" "+surname)
 print(f'Your name has {characters_in_name} characters')
 print(f'Your surname has {characters_in_surname} characters')
 print(f'Your full name has {fullname} characters') # with a space between name and surname
+
+#output:
+#Your name has 6 characters
+#Your surname has 6 characters
+#Your full name has 13 characters
