@@ -16,14 +16,7 @@ print(movie.casefold())
 print(movie.count("e"))
 
 # print where in the text is the word "Lord"
-print(movie.rfind("Lord"))
+print(movie.find("Lord"))
 
 # print where in the text is the word "dragon"
-print(movie.rfind("dragon"))
-
-lista = ['1','2','3']
-
-a = '-'.join(lista)
-print(a)
-
-print(a.split(sep=", "))
+print(movie.find("dragon"))
